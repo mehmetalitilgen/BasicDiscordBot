@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env/
+
+# SQLite Veritabanı
+*.sqlite3
+tasks.db
+
+# Günlük (Log) Dosyaları
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+*.swp
+
+# Gereksiz sistem dosyaları
+.DS_Store
+Thumbs.db
