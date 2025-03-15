@@ -64,7 +64,7 @@ DATABASE_NAME = "tasks.db"
 Terminal veya komut satırında **bot dosyasının olduğu dizine girin**:
 
 ```sh
-cd task_manager_bot
+cd BasicDiscordBot
 python bot.py
 ```
 
